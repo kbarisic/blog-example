@@ -1,0 +1,6 @@
+blog-env
+.idea
+__pycache__
+dist
+build
+.DS_Store
