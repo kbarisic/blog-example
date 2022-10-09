@@ -5,7 +5,15 @@
 
 ## Installation
 
-1. Install project dependencies
+1. Create virtual environment
+   ```sh
+   python3 -m venv blog-env
+   ```
+2. Activate virtual environment
+   ```sh
+   source blog-env/bin/activate
+   ```
+3. Install project dependencies
    ```sh
    pip3 install -r requirements.txt
    ```
